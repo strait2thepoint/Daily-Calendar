@@ -99,14 +99,20 @@ You are required to submit the following for review:
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
 
 
-Source code:
+
+Source Code as provided by MSU Bootcamp:
 https://github.com/coding-boot-camp/crispy-octo-meme
 
 git@github.com:coding-boot-camp/crispy-octo-meme.git
 
-Other resources utilized for this project:
+
+Other resources:
+
+https://learn.jquery.com/using-jquery-core/document-ready/#:~:text=jQuery%20detects%20this%20state%20of,for%20JavaScript%20code%20to%20execute.
+
 https://github.com/kaitlynatif/WorkDay_Scheduler
 
 git@github.com:kaitlynatif/WorkDay_Scheduler.git
 
 Utlized Codespace: https://strait2thepoint-reimagined-goggles-7v794v5xpqxhr97v.github.dev/
+
