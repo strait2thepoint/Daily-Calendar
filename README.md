@@ -97,3 +97,16 @@ You are required to submit the following for review:
 
 - - -
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+
+
+Source code:
+https://github.com/coding-boot-camp/crispy-octo-meme
+
+git@github.com:coding-boot-camp/crispy-octo-meme.git
+
+Other resources utilized for this project:
+https://github.com/kaitlynatif/WorkDay_Scheduler
+
+git@github.com:kaitlynatif/WorkDay_Scheduler.git
+
+Utlized Codespace: https://strait2thepoint-reimagined-goggles-7v794v5xpqxhr97v.github.dev/
