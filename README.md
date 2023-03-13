@@ -108,7 +108,9 @@ git@github.com:coding-boot-camp/crispy-octo-meme.git
 
 Other resources:
 
-https://learn.jquery.com/using-jquery-core/document-ready/#:~:text=jQuery%20detects%20this%20state%20of,for%20JavaScript%20code%20to%20execute.
+function for currentHour provided by Hank Richter- with changes and adaptations by myself.
+
+Dayjs 
 
 https://github.com/kaitlynatif/WorkDay_Scheduler
 
