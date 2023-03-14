@@ -20,17 +20,37 @@ function displayTime (){
 displayTime();
 
 // //working on my own stuff here:  need loop for rest of hours
-let saveBtn = document.querySelector('.saveBtn');  
-let description = document.querySelector('.description'); 
+let contFl = document.querySelector('.container-fluid');  
+let description = document.querySelectorAll('.description'); 
 
-saveBtn.addEventListener('click', addToLocalStorage);
+contFl.addEventListener('click', saveAllData)
 
-const strArr = ['hour-6', 'hour-7','hour-8','hour-9','hour-10','hour-11','hour-12','hour-13','hour-14','hour-15','hour-16','hour-17','hour-18'];
+function saveAllData(e){
+  e.preventDefault();
+  
 
-for(let i = 0; i < strArr.length; i++){
- description.value = localStorage.getItem('content');
+  const dataArr = [];
+  let descriptions = document.querySelectorAll('.description')
 
-function addToLocalStorage(){
-let content = document.querySelector('.hour-6');
-localStorage.setItem('content', description.value);  
-} }
+descriptions.forEach((element, index) =>{
+  dataArr.push(element.value);
+})
+  console.log(dataArr);
+  localStorage.setItem('content', JSON.stringify(dataArr));
+}
+
+const saveDescriptions = JSON.parse(localStorage.getItem('content'));
+
+saveDescriptions.forEach((element, index)=>{
+description[index].value = element 
+})
+
+
+
+
+
+
+
+//The current above is storing hour-6 to local storage and returning it to hour-6 when you come back to the page.  What I would like to do is try to replace document.querySelector('hour-') with a value within the strArr by using JSON.stringify, maybe.
+
+//description.value change to JSON.stringify(strArr)??
