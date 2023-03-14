@@ -32,81 +32,27 @@ WHEN I refresh the page
 THEN the saved events persist
 ```
 
-The following animation demonstrates the application functionality:
+## Deployment
 
-<!-- @TODO: create ticket to review/update image) -->
-![A user clicks on slots on the color-coded calendar and edits the events.](./Assets/05-third-party-apis-homework-demo.gif)
+https://strait2thepoint.github.io/Daily-Calendar/
 
-## Grading Requirements
+git@github.com:strait2thepoint/Daily-Calendar.git
 
-> **Note**: If a Challenge assignment submission is marked as “0”, it is considered incomplete and will not count towards your graduation requirements. Examples of incomplete submissions include the following:
->
-> * A repository that has no code
->
-> * A repository that includes a unique name but nothing else
->
-> * A repository that includes only a README file but nothing else
->
-> * A repository that only includes starter code
+Usage
+![Strait2thePointDaily-Calendar](./Assets/Screenshot%202023-03-13%20224012.png)
+![Strait2thePointDaily-Calendar](./Assets/Screenshot%202023-03-13%20224146.png)
 
-This Challenge is graded based on the following criteria:
-
-### Technical Acceptance Criteria: 40%
-
-* Satisfies all of the above acceptance criteria plus the following:
-
-  * Uses a date utility library to work with date and time
-
-### Deployment: 32%
-
-* Application deployed at live URL
-
-* Application loads with no errors
-
-* Application GitHub URL submitted
-
-* GitHub repo contains application code
-
-### Application Quality: 15%
-
-* Application user experience is intuitive and easy to navigate
-
-* Application user interface style is clean and polished
-
-* Application resembles the mock-up functionality provided in the Challenge instructions
-
-### Repository Quality: 13%
-
-* Repository has a unique name
-
-* Repository follows best practices for file structure and naming conventions
-
-* Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
-
-* Repository contains multiple descriptive commit messages
-
-* Repository contains quality README file with description, screenshot, and link to deployed application
-
-## Review
-
-You are required to submit the following for review:
-
-* The URL of the deployed application
-
-* The URL of the GitHub repository, with a unique name and a README describing the project
-
-- - -
-© 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
-
-
-Source code:
+## Source:
+Source Code as provided by MSU Bootcamp:
 https://github.com/coding-boot-camp/crispy-octo-meme
 
 git@github.com:coding-boot-camp/crispy-octo-meme.git
 
-Other resources utilized for this project:
-https://github.com/kaitlynatif/WorkDay_Scheduler
+Other resources:
 
-git@github.com:kaitlynatif/WorkDay_Scheduler.git
+function for currentHour provided by Hank Richter- with changes and adaptations by myself.
 
-Utlized Codespace: https://strait2thepoint-reimagined-goggles-7v794v5xpqxhr97v.github.dev/
+Dayjs 
+
+Utilized office hours for specific assistance on script.js file.
+
