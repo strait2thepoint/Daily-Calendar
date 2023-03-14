@@ -1,7 +1,7 @@
 $(function () {
 currentHour
  = dayjs().hour();
- for (let i = 6; i < 18; i++){
+ for (let i = 6; i < 19; i++){
   if (i < currentHour){
     $('#hour-' +i).addClass('past');
     } else if (i > currentHour){
