@@ -31,24 +31,22 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
 ```
+
 ## Deployment
 
 https://strait2thepoint.github.io/Daily-Calendar/
 
 git@github.com:strait2thepoint/Daily-Calendar.git
 
+Usage
+![Strait2thePointDaily-Calendar](./Assets/Screenshot%202023-03-13%20224012.png)
+![Strait2thePointDaily-Calendar](./Assets/Screenshot%202023-03-13%20224146.png)
 
-The following animation demonstrates the application functionality:
-
-<!-- @TODO: create ticket to review/update image) -->
-![A user clicks on slots on the color-coded calendar and edits the events.](./Assets/05-third-party-apis-homework-demo.gif)
-
-
+## Source:
 Source Code as provided by MSU Bootcamp:
 https://github.com/coding-boot-camp/crispy-octo-meme
 
 git@github.com:coding-boot-camp/crispy-octo-meme.git
-
 
 Other resources:
 
@@ -56,11 +54,5 @@ function for currentHour provided by Hank Richter- with changes and adaptations 
 
 Dayjs 
 
-https://github.com/kaitlynatif/WorkDay_Scheduler
-
-git@github.com:kaitlynatif/WorkDay_Scheduler.git
-
-Utlized Codespace: https://strait2thepoint-reimagined-goggles-7v794v5xpqxhr97v.github.dev/
-
-Utilized Office Hours for this project to obtain advice.
+Utilized office hours for specific assistance on script.js file.
 
