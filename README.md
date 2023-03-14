@@ -36,10 +36,11 @@ THEN the saved events persist
 
  git@github.com:strait2thepoint/Daily-Calendar.git
 
-<!-- @TODO: create ticket to review/update image) -->
-![A user clicks on slots on the color-coded calendar and edits the events.](./Assets/05-third-party-apis-homework-demo.gif)
+Usage
+![Strait2thePointDaily-Calendar](./Assets/Screenshot%202023-03-13%20224012.png)
+![Strait2thePointDaily-Calendar](./Assets/Screenshot%202023-03-13%20224146.png)
 
-
+## Source:
 Source Code as provided by MSU Bootcamp:
 https://github.com/coding-boot-camp/crispy-octo-meme
 
@@ -52,9 +53,5 @@ function for currentHour provided by Hank Richter- with changes and adaptations 
 
 Dayjs 
 
-https://github.com/kaitlynatif/WorkDay_Scheduler
-
-git@github.com:kaitlynatif/WorkDay_Scheduler.git
-
-Utlized Codespace: https://strait2thepoint-reimagined-goggles-7v794v5xpqxhr97v.github.dev/
+Utilized office hours for specific assistance on script.js file.
 
